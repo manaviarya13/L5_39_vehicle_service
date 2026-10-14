@@ -7,3 +7,5 @@ venv/
 .venv/
 env/
 
+# Generated application data
+services.json
